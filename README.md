@@ -1,0 +1,3 @@
+- 👋 Hola, soy @BarbaraDP
+- 👀 Soy diseñadora gráfica
+- 🌱 Estoy actualmente cursando un bootcamp de fullstack developer
