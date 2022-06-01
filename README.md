@@ -1,3 +1,3 @@
 - 👋 Hola, soy @BarbaraDP
 - 👀 Soy diseñadora gráfica
-- 🌱 Estoy actualmente cursando un bootcamp de fullstack developer en OpenBootcamp
+- 🌱 Estoy actualmente cursando un bootcamp de Marketing Digital en OpenMarketers
