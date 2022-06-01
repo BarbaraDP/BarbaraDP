@@ -1,3 +1,3 @@
 - 👋 Hola, soy @BarbaraDP
-- 👀 Soy diseñadora gráfica
+- 👀 Soy Diseñadora Gráfica
 - 🌱 Estoy actualmente cursando un bootcamp de Marketing Digital en OpenMarketers
