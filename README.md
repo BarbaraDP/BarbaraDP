@@ -1,3 +1,3 @@
 - 👋 Hola, soy @BarbaraDP
-- 👀 Soy Diseñadora Gráfica
-- 🌱 Estoy actualmente cursando un bootcamp de Marketing Digital en OpenMarketers
+- 👀 Diseñadora UX/UI
+- 🌱 Estoy actualmente cursando una certificación de Desarrollo en Phyton con IBM
